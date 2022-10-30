@@ -39,7 +39,7 @@ Startups
 `2017-2022`
 Bitcoin 
 blockchain
-
+layer 2
 
 
 <!-- ### Footer
