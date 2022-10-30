@@ -2,7 +2,7 @@
 layout: cv
 title: simon tadros CV
 ---
-# Isaac Newton
+# Simon Tadros
 Transhumanist, Developer, bitcoin evangelist.
 
 <div id="webaddress">
